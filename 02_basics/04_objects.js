@@ -62,7 +62,7 @@ const obj3 = {...obj1, ...obj2, ...obj4}
 const course = {
     coursename: "js in hindi",
     price: "999",
-    courseInstructor: "hitesh"
+    courseInstructor: "Zahoor"
 
 }
 // course.courseInstructor
@@ -71,9 +71,9 @@ const {courseInstructor:instructor} = course
 console.log(instructor);
 
 // {
-//     name: "hitesh",
-//     coursename: "js in hindi",
-//     course: "free"
+//     "name": "Zahoor",
+//     "coursename": "js in hindi",
+//   " price": "free"
 // }
 
 
